@@ -3,10 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python
-  - logging
   - requests
   - PyPDF2
-  - re
-  - csv
-  - sys
   - SPARQLWrapper
+  - spacy
